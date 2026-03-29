@@ -26,9 +26,10 @@ export default function RootLayout({
               MediaBridge
             </Link>
             <nav className="site-nav" aria-label="Primary">
-              <Link href="/">Home</Link>
-              <Link href="/privacy">Privacy</Link>
-              <Link href="/contact">Contact</Link>
+               <Link href="/">Home</Link>
+<Link href="/privacy">Privacy</Link>
+<Link href="/terms">Terms</Link>
+<Link href="/contact">Contact</Link>
             </nav>
           </div>
         </header>
