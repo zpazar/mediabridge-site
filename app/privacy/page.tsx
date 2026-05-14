@@ -22,6 +22,58 @@ export default function PrivacyPage() {
           IP address, device type, and approximate location derived from IP) as
           typical for web servers and analytics that we enable.
         </p>
+        <h2>Data Protection and Security</h2>
+        <p>
+          MediaBridge takes appropriate technical and organizational measures to
+          protect user data accessed through Google APIs and other integrations.
+        </p>
+        <h3>Data Transmission</h3>
+        <p>
+          All data transmitted between MediaBridge and third-party services,
+          including Google APIs, is encrypted using HTTPS/TLS.
+        </p>
+        <h3>Authentication and Access</h3>
+        <p>
+          Access to Google user data is authorized through OAuth 2.0. MediaBridge
+          only accesses data that a user has explicitly granted permission to
+          access. OAuth tokens are stored securely and are not shared with third
+          parties.
+        </p>
+        <h3>Limited Use of Google User Data</h3>
+        <p>
+          MediaBridge uses Google user data only to provide user-requested
+          product functionality, including reading campaign planning data,
+          validating budgets, calculating pacing, and applying user-approved
+          updates to connected advertising platforms. Google user data is not
+          sold, rented, transferred, or used for advertising purposes.
+        </p>
+        <h3>Access Controls</h3>
+        <p>
+          Access to user data is restricted to authorized systems and personnel
+          only where necessary to operate, maintain, or support the service.
+          MediaBridge uses safeguards designed to prevent unauthorized access,
+          disclosure, alteration, or destruction of user data.
+        </p>
+        <h3>Data Storage and Retention</h3>
+        <p>
+          MediaBridge does not store sensitive Google Ads or Google Sheets data
+          beyond what is necessary to provide the service. Data is retained only
+          as long as needed for product functionality, operational records,
+          security, or legal obligations.
+        </p>
+        <h3>User Revocation and Deletion</h3>
+        <p>
+          Users may revoke MediaBridge&apos;s access to their Google account at
+          any time through their Google account permissions. After access is
+          revoked, MediaBridge can no longer access Google user data. Users may
+          also request deletion of associated data by contacting MediaBridge.
+        </p>
+        <h3>Google API Limited Use Compliance</h3>
+        <p>
+          MediaBridge&apos;s use and transfer of information received from Google
+          APIs adheres to the Google API Services User Data Policy, including the
+          Limited Use requirements.
+        </p>
         <h2>How we use information</h2>
         <p>
           We use contact and technical information to respond to inquiries,
