@@ -11,7 +11,7 @@ export default function PrivacyPage() {
         Privacy Policy
       </h1>
       <p className="mt-2 max-w-2xl text-sm text-slate-600 dark:text-slate-400">
-        Last updated: March 28, 2026. This policy describes how MediaBridge
+        Last updated: June 27, 2026. This policy describes how MediaBridge
         (&quot;we&quot;, &quot;us&quot;) handles information in connection
         with this website and related services.
       </p>
@@ -55,7 +55,7 @@ export default function PrivacyPage() {
           <p className="mt-1">
             Access to Google user data is authorized through OAuth 2.0.
             MediaBridge only accesses data that a user has explicitly granted
-            permission to access. OAuth tokens are stored securely and are
+            permission to access. OAuth tokens are encrypted at rest and are
             not shared with third parties.
           </p>
 
