@@ -30,7 +30,7 @@ export default function RootLayout({
           <div className="mx-auto flex h-16 max-w-5xl items-center justify-between gap-4 px-5">
             <Link
               href="/"
-              className="text-lg font-semibold tracking-tight text-slate-900 hover:no-underline dark:text-slate-100"
+              className="text-lg font-semibold tracking-tight text-[#1e40af] hover:no-underline dark:text-blue-400"
             >
               MediaBridge
             </Link>
